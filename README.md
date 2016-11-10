@@ -67,7 +67,7 @@ HTML
     	<title>How to survive in JI</title>
     </head>
     <body>
-    	<h1>Hello world</h1>
+    	<h1>How to survive in JI</h1>
         <p>There are two many dues in JI.</p>
         <ul>
         	<li>Vv186 Honors Mathematics II</li>
