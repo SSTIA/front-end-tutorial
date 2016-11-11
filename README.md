@@ -55,7 +55,7 @@ $$
 Markdown
 
 	# How to survive in JI
-    There are two many dues in JI.
+    There are too many dues in JI.
     - Vv186 Honors Mathematics II
     - Vg101 Introduction to Programming
 
@@ -68,7 +68,7 @@ HTML
     </head>
     <body>
     	<h1>How to survive in JI</h1>
-        <p>There are two many dues in JI.</p>
+        <p>There are too many dues in JI.</p>
         <ul>
         	<li>Vv186 Honors Mathematics II</li>
             <li>Vg101 Introduction to Programming</li>
