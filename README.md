@@ -35,11 +35,13 @@ A simple introduction to web front-end development used in SSTIA in 2016 Fall.
 
 ### LaTeX Math
 
-Note that it cannot be rendered in Github. The website or editor should support Mathjax.
-
-$$
+```latex
 \frac{d}{dx}x^2 = 2x
-$$
+```
+
+![image](https://cloud.githubusercontent.com/assets/4508882/20235352/90eaa1f0-a8ca-11e6-8e09-76311d074185.png)
+
+Note that the website or software need support mathjax to render LaTeX formula.
 
 ### Others
 
